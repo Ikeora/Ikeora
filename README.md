@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ikeora
 - 👀 I’m interested in Data Science, AI
-- 🌱 I’m currently learning Reinforcement learning and javascript
+- 🌱 I’m currently learning Reinforcement learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
