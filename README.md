@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ikeora
 - 👀 I’m interested in Data Science, AI
-- 🌱 I’m currently learning Reinforcement learning
-- 💞️ I’m looking to collaborate on a DRL project for automated trading
+- 💞️ I’m looking to continuously upskill
 - 📫 How to reach me by mail(ekene.ikeora@gmail.com)
 
 <!---
